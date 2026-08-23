@@ -1,0 +1,7 @@
+{
+  "name": "Demon Signal",
+  "description": "Real-time Deriv accumulator signals, algorithmic market data analysis, and automated trade execution bot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
